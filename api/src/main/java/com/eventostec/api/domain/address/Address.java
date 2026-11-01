@@ -1,8 +1,8 @@
-package api.domain.address;
+package com.eventostec.api.domain.address;
 
 import java.util.UUID;
 
-import api.domain.event.Event;
+import com.eventostec.api.domain.event.Event;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
